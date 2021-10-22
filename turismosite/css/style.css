@@ -1,0 +1,52 @@
+body {
+	background-attachment: fixed;
+   background-position: top center ;
+   background-repeat: no-repeat ;
+   background-size: cover ;
+   margin: 0px;
+   background-image: url("../imgge/mapa4.jpg")
+  
+}
+
+#Menu {
+	 background: #8B0000;
+	
+}
+
+#Menu h1{
+	display: inline-block;
+	margin: 3px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	text-align: left;
+	font-size: 35px;
+	color: white;
+	padding-right: 263px;
+}
+#Links {
+	display: inline-block;
+	margin: 5px
+	
+}
+#Links a{
+	text-decoration: none;
+	display: inline;
+	font-size: 20px;
+	color: #F8F8FF;
+	padding-right: 25px
+}
+#Links a:hover {
+	background-color: #1C1C1C;
+	padding: 13px;
+	padding-top: 24px;
+}
+
+#bordas {
+	width: 900px;
+	margin-left: 226px;
+	margin-top: 20px;
+	border: 2px solid #FFF5EE;
+	background-color: #FFF5EE; 
+	
+	
+}
